@@ -12,8 +12,7 @@ namespace AirIndia
         {
             Console.WriteLine("This is AirIndia project");          
             Console.WriteLine("This is AirIndia: Sangram is the pilot");
-            Console.WriteLine("This is AirIndia: Samapika is the co-pilot");
-            Console.WriteLine("This is AirIndia: Kishan is the ATC controller");
+            
 
 
         }
